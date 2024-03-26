@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "id": 1, "list_id": 1, "name": "Apples", "quantity": 2, "unit": "kg", "price_per_unit": 2.50, "category": "Fruits", "notes": "Organic apples", "is_purchased": false },
+    { "id": 2, "list_id": 1, "name": "Milk", "quantity": 1, "unit": "carton", "price_per_unit": 3.00, "category": "Dairy", "notes": "Full-fat milk", "is_purchased": true },
+    { "id": 3, "list_id": 2, "name": "Bread", "quantity": 1, "unit": "loaf", "price_per_unit": 2.00, "category": "Bakery", "notes": "Whole grain bread", "is_purchased": false },
+    { "id": 4, "list_id": 2, "name": "Eggs", "quantity": 1, "unit": "dozen", "price_per_unit": 2.50, "category": "Dairy", "notes": "Free-range eggs", "is_purchased": true },
+    { "id": 5, "list_id": 3, "name": "Paint", "quantity": 2, "unit": "gallon", "price_per_unit": 20.00, "category": "Home Improvement", "notes": "Interior paint", "is_purchased": false },
+    { "id": 6, "list_id": 3, "name": "Brushes", "quantity": 1, "unit": "set", "price_per_unit": 15.00, "category": "Home Improvement", "notes": "Assorted brushes", "is_purchased": false },
+    { "id": 7, "list_id": 4, "name": "Laptop", "quantity": 1, "unit": "unit", "price_per_unit": 400.00, "category": "Electronics", "notes": "High-performance laptop", "is_purchased": true },
+    { "id": 8, "list_id": 4, "name": "Smartphone", "quantity": 1, "unit": "unit", "price_per_unit": 300.00, "category": "Electronics", "notes": "Latest smartphone model", "is_purchased": true },
+    { "id": 9, "list_id": 5, "name": "Jeans", "quantity": 1, "unit": "pair", "price_per_unit": 40.00, "category": "Clothing", "notes": "Slim-fit jeans", "is_purchased": false },
+    { "id": 10, "list_id": 5, "name": "T-shirt", "quantity": 2, "unit": "piece", "price_per_unit": 10.00, "category": "Clothing", "notes": "Cotton T-shirts", "is_purchased": true }
+  ]
+}
